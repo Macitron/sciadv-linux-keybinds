@@ -1,5 +1,7 @@
 # Science Adventure Linux Keybindings
 
+**CAUTION: this script persists after your screen shuts off, meaning that if your username/password has characters that were unbound you will be unable to log back in. I will try to fix this soon; do not make the same mistake I did.**
+
 This repo is based on three assumptions:
 
   1. That you are playing a [Science Adventure](https://en.wikipedia.org/wiki/Science_Adventure) title **on Linux** and are dissatisfied with the nonsensical in-game keybindings;

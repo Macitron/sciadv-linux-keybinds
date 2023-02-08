@@ -6,7 +6,7 @@ This repo is based on three assumptions:
   1. that you have [Map2](https://github.com/shiro/map2) by [shiro](https://github.com/shiro) installed on your system; which, in turn, assumes
   1. that you are using X11, since Map2 does not look like it will implement Wayland compatability in the forseeable future.
 
-It was initially with Chaos;Head in mind, so for the time being the keybindings will be more specific to that game. Optimal bindings for other games may be added over time, and if not it should be easy enough to adapt the script.
+This project was initially made with Chaos;Head in mind, so for the time being the keybindings will be more specific to that game. Optimal bindings for other games may be added over time, and if not it should be easy enough to adapt the m2 script.
 
 If you are using this for some other purpose, that's wonderful! It's a very flexible script, and I quite like it. But do keep in mind that it's not what this was made for and that you probably won't get very active support for issues that may arise.
 

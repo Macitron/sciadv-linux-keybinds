@@ -1,0 +1,6 @@
+#!/bin/bash
+
+trap 'echo ""; exit 0' INT  # Graceful exit on CTRL+C
+
+cd "$(dirname $0)"
+map2 -d devices.list binds.m2

@@ -1,0 +1,29 @@
+For quick reference, these are the default keybindings for CHAOS;HEAD NOAH.
+If different games end up having wildly different bindings, I will eventually turn this file into proper Markdown with sections for each.
+
+Esc = Exit game
+f1 = Help
+f2 = Backlog
+f3 = Auto mode
+f4 = Tips
+f5 = Load
+f6 = Save
+f7 = Quick Load
+f8 = Quick Save
+f9 = Config
+f10 = Title Menu
+f11 = Fullscreen
+f12 = Screenshot
+Insert = Backlog
+Delete = Auto mode
+1 = System menu
+Backspace = Back / Hide text
+Q = Force skip / Page left
+E = Skip / Page right
+[,] = Text scroll (tips, backlog)
+\ = Resolution
+Enter = Enter lul
+Z,C = Delusion trigger
+Ctrl = Force skip (/ page left? for real?)
+Arrow keys = Select (menu, messages)
+
